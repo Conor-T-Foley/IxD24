@@ -1,3 +1,20 @@
-h1 {
-  color: green;
+h1{
+  font-family: sans-serif;
+  color: black;
+}
+
+body{
+  display: flex;
+  font-family: sans-serif;
+}
+
+#nav a{
+  font-family: sans-serif;
+  background-color: rgb(103, 119, 114);
+  color: black;
+}
+
+#nav{
+  min-width: 300px;
+  background-color: white;
 }
